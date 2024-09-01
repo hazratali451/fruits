@@ -11,7 +11,6 @@ const CheckOutRoute = ({ children }) => {
 			return children;
 		}
 	} else {
-		return children;
 		if (typeof window !== "undefined") {
 			router.push(`/`);
 		}
