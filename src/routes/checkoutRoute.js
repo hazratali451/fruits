@@ -13,7 +13,7 @@ const CheckOutRoute = ({ children }) => {
 	} else {
 		return children;
 		if (typeof window !== "undefined") {
-			// router.push(`/`);
+			router.push(`/`);
 		}
 	}
 };
