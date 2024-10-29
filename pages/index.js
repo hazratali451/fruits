@@ -6,8 +6,8 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Bogura Theke</title>
-				<meta name="description" content="Bogurar Shera Doi" />
+				<title>Fruits</title>
+				<meta name="description" content="" />
 				<meta
 					name="viewport"
 					content="width=device-width, initial-scale=1"

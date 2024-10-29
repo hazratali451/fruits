@@ -8,7 +8,7 @@ const OtpPage = () => {
 	const router = useRouter();
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		router.push("/");
+		router.push(`/dashboard`);
 	};
 	return (
 		<Layout>
