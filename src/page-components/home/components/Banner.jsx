@@ -19,7 +19,7 @@ const Banner = () => {
 							<SwiperSlide key={index}>
 								<Link href={""} className="banner-img">
 									<Image
-										src={"/images/banner.png"}
+										src={"/image.png"}
 										width={1320}
 										height={480}
 										alt="banner-promo"
